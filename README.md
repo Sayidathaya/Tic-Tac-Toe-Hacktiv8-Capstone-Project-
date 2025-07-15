@@ -68,7 +68,7 @@ Proyek ini dikembangkan melalui pendekatan AI-assisted development dengan **IBM 
 
 ## 🌐 Demo Langsung
 
-> 🔗 [Klik di sini untuk memainkan game](https://yourusername.github.io/tic-tac-toe-capstone/)
+> 🔗 [Klik di sini untuk memainkan game](https://sayidathaya.github.io/Tic-Tac-Toe-Hacktiv8-Capstone-Project-/)
 
 
 ---
